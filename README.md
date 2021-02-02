@@ -1,7 +1,7 @@
 ![Header image](https://lh3.googleusercontent.com/PqoABITTGGT2QHXCt2-wN7mztq8rSiG_APAX2eGvK6qGG8QL72x0qtAojXlrVBgY79GN2HWWepq94LYyjUuIUuuZYy3fH2Z9OJb7dCscp1wJrBHbbygIibNdayYKVjBaVT6umjWknmI=w2400)
 
 ## This is only the start of something groundbreaking glad you dropped by
-Below is my latest project I created for my final project at Flatiron School it's called Job.Bnb.
+Below is my latest project I created for Flatiron School it's called Job.Bnb.
 It's a great way to keep your contacts (you know because all the networking)! 	:rocket:
 
 
