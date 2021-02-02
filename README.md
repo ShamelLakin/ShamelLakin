@@ -5,7 +5,7 @@ Below is my latest project I created for Flatiron School it's called Job.Bnb.
 It's a great way to keep your contacts (you know because all the networking)! 	:rocket:
 
 
-## Project Job.Bnb
+## Project - Job.Bnb
  ![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif)
 
 
