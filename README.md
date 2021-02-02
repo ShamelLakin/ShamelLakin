@@ -7,7 +7,9 @@ It's a great way to keep your contacts (you know because all the networking)! 	:
 
 ## Project - Job.Bnb
  ![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif)
-
+1. React - Client Side
+1. Redux
+1. Ruby on Rails API - Backend
 
 <!--
 **ShamelLakin/ShamelLakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
