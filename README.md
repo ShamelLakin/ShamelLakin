@@ -2,7 +2,7 @@
 
 ## This is only the start of something groundbreaking glad you dropped by
 Below is my latest project I created for my final project at Flatiron School it's called Job.Bnb.
-It's great way to keep your contacts (you know because all the networking)! 	:rocket:
+It's a great way to keep your contacts (you know because all the networking)! 	:rocket:
 
 
 ## Project Job.Bnb
