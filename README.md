@@ -5,10 +5,14 @@ Below is my latest project I created for Flatiron School it's called Job.Bnb.
 It's a great way to keep your contacts (you know because all the networking)! 	:rocket:
 
 
-## Project - Job.Bnb
- ![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif)
-1. React/Redux - Client Side
+## Project - Job.Bnb                                                       
+
+ ![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif) 
+1. React/Redux - Client Side                                             
 1. Ruby on Rails API - Backend
+
+## Ruby Gem I Created - [Popcorn_love](https://rubygems.org/gems/popcorn_love)
+![Alt Text](https://lh3.googleusercontent.com/AJRdUAuZuXV_YlediPEbv4RlqNP9BDjngPUGOxulJvKzGYbPlHiDs46wPPJyKc6r-iWE2Aw56hqOM8B2DTiiK6CUACoN_VA6371w3wVSmcnVeMt1Hc0kxGKnC_EMUQQgfBkQ6XKptAs=w2400)
 
 <!--
 **ShamelLakin/ShamelLakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
