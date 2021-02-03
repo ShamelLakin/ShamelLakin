@@ -14,6 +14,9 @@ It's a great way to keep your contacts (you know because all the networking)! 	:
 ## Ruby Gem I Created - [Popcorn_love](https://rubygems.org/gems/popcorn_love)
 ![Alt Text](https://lh3.googleusercontent.com/AJRdUAuZuXV_YlediPEbv4RlqNP9BDjngPUGOxulJvKzGYbPlHiDs46wPPJyKc6r-iWE2Aw56hqOM8B2DTiiK6CUACoN_VA6371w3wVSmcnVeMt1Hc0kxGKnC_EMUQQgfBkQ6XKptAs=w2400)
 
+This gem enables you to see a list of the top ten box office movies along with their weekend revenue and their overall gross all from the terminal.
+Popcorn_love also gives you a brief synopsis of the movie so the user can figure out which movie is the right one.:clapper:
+
 <!--
 **ShamelLakin/ShamelLakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
