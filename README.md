@@ -2,7 +2,7 @@
 
 
 
-## This is only the start of something groundbreaking glad you dropped by
+## I'm glad you dropped by
 I'm a full-stack software engineer who uses code as a means to make progress in our world.
 I put my heart into detail and project completion.
 
