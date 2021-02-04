@@ -11,11 +11,14 @@ I put my heart into detail and project completion.
 
 ## Project - Job.Bnb  
 Below is my latest project I created for Flatiron School it's called Job.Bnb.
-It's a great way to keep your contacts (you know because all the networking)! 	:rocket:
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif" width="408" height="318" />
+It's a great way to keep your contacts (you know because all the networking)! :rocket:
+
+![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif) 
  
 1. React/Redux - Client Side                                             
 1. Ruby on Rails API - Backend
+
+
 
 **Talking about Personal Stuffs:**
 
