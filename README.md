@@ -1,5 +1,7 @@
 ![Header image](https://lh3.googleusercontent.com/PqoABITTGGT2QHXCt2-wN7mztq8rSiG_APAX2eGvK6qGG8QL72x0qtAojXlrVBgY79GN2HWWepq94LYyjUuIUuuZYy3fH2Z9OJb7dCscp1wJrBHbbygIibNdayYKVjBaVT6umjWknmI=w2400)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shamel-lakin-b78155151/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ShamelLakin)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://shamelwashere.medium.com/)
 
 
 ## I'm glad you dropped by
@@ -24,9 +26,10 @@ This gem enables you to see a list of the top ten box office movies along with t
 Popcorn_love also gives you a brief synopsis of the movie so the user can figure out which movie is the right one.:clapper:
 
 ### My GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamellakin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamellakin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamellakin&hide=ruby&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
 
