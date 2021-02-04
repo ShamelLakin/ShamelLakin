@@ -17,6 +17,11 @@ It's a great way to keep your contacts (you know because all the networking)! 	:
 This gem enables you to see a list of the top ten box office movies along with their weekend revenue and their overall gross all from the terminal.
 Popcorn_love also gives you a brief synopsis of the movie so the user can figure out which movie is the right one.:clapper:
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamellakin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+
 <!--
 **ShamelLakin/ShamelLakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
