@@ -3,11 +3,13 @@
 
 
 ## This is only the start of something groundbreaking glad you dropped by
+I'm a Full-Stack software engineer who uses code as a means to make progress in our world.
+As a software engineer I put my heart into detail and project completion.
+
+
+## Project - Job.Bnb  
 Below is my latest project I created for Flatiron School it's called Job.Bnb.
 It's a great way to keep your contacts (you know because all the networking)! 	:rocket:
-
-
-## Project - Job.Bnb                                                       
 
  ![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif) 
 1. React/Redux - Client Side                                             
