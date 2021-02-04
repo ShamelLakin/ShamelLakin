@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://shamelwashere.medium.com/)
 
 
-## I'm glad you dropped by
+## Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shamel, glad you dropped by!
 I'm a full-stack software engineer who uses code as a means to make progress in our world.
 I put my heart into detail and project completion.
 
