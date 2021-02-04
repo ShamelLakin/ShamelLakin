@@ -18,9 +18,9 @@ It's a great way to keep your contacts (you know because all the networking)! :r
 1. React/Redux - Client Side                                             
 1. Ruby on Rails API - Backend
 
+</br>
 
-
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/);
@@ -28,6 +28,7 @@ It's a great way to keep your contacts (you know because all the networking)! :r
 - 📝 I write articles on [medium](https://shamelwashere.medium.com/);
 - 📫 How to reach me: christlife4u@gmail.com;
 
+</br>
 
 ## Ruby Gem I Created - [Popcorn_love](https://rubygems.org/gems/popcorn_love)
 
