@@ -26,6 +26,8 @@ Popcorn_love also gives you a brief synopsis of the movie so the user can figure
 ### My GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamellakin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamellakin&layout=compact)](https://github.com/shamellakin/github-readme-stats)
+
 
 
 
