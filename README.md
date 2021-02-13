@@ -37,7 +37,7 @@ It's a great way to keep your contacts (you know because all the networking)! :r
 
 
 This gem enables you to see a list of the top ten box office movies along with their weekend revenue and their overall gross all from the terminal.
-Popcorn_love also gives you a brief synopsis of the movie so the user can figure out which movie is the right one.:clapper:
+Popcorn_love also gives you a brief synopsis of the movie so the user can figure out which movie is the right one - it currently has 1,294 total downloads.:clapper:
 
 ### My GitHub Stats
 <p>
