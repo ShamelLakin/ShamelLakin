@@ -23,7 +23,7 @@ It's a great way to keep your contacts (you know because all the networking)! :r
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/);
+- 🚀 I’m currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I write articles on [Hashnode](https://shamel.hashnode.dev/);
 - 📫 How to reach me: christlife4u@gmail.com;
