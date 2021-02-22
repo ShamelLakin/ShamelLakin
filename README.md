@@ -1,7 +1,7 @@
 ![Header image](https://lh3.googleusercontent.com/PqoABITTGGT2QHXCt2-wN7mztq8rSiG_APAX2eGvK6qGG8QL72x0qtAojXlrVBgY79GN2HWWepq94LYyjUuIUuuZYy3fH2Z9OJb7dCscp1wJrBHbbygIibNdayYKVjBaVT6umjWknmI=w2400)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shamel-lakin-b78155151/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ShamelLakin)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://shamelwashere.medium.com/)
+[![Hashnode Badge](https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-square&logo=hashnode&logoColor=white)](https://shamel.hashnode.dev/)
 
 
 ## Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shamel, glad you dropped by!
