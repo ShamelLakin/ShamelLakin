@@ -9,7 +9,7 @@ I'm a full-stack software engineer who uses code as a means to make progress in 
 I put my heart into detail and project completion.
 
 
-## Project - Hulu Clone  
+## My Latest Project - Hulu Clone  
 Below is my latest project I created a Hulu clone.
 Projects are a great way to level up those skills :rocket:
 
