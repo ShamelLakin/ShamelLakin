@@ -9,14 +9,21 @@ I'm a full-stack software engineer who uses code as a means to make progress in 
 I put my heart into detail and project completion.
 
 
-## Project - Job.Bnb  
-Below is my latest project I created for Flatiron School it's called Job.Bnb.
-It's a great way to keep your contacts (you know because all the networking)! :rocket:
+## Project - Hulu Clone  
+Below is my latest project I created a Hulu clone.
+Projects are a great way to level up those skills :rocket:
 
-![Alt Text](https://media.giphy.com/media/hjVJip0B6ZKHMe87Lv/giphy.gif) 
- 
-1. React/Redux - Client Side                                             
-1. Ruby on Rails API - Backend
+![Alt Text](https://media.giphy.com/media/GqUB4IZ8iKt7vUuWUO/giphy.gif) 
+
+## Deployed version here [Hulu clone](https://huluclone-4432e.web.app/)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+## Built with
+1. JavaScript
+2. React
+3. TMDB - API
+4. & more...
 
 </br>
 
