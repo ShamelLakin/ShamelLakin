@@ -27,10 +27,10 @@ The most fun was to actually bring all the frameworks and components together gi
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Built with
-1. JavaScript
-2. React
-3. TMDB - API
-4. & more...
+* JavaScript
+* React
+* TMDB - API
+* & more...
 
 </br>
 
