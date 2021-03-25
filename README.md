@@ -15,6 +15,13 @@ Projects are a great way to level up those skills :rocket:
 
 ![Alt Text](https://media.giphy.com/media/GqUB4IZ8iKt7vUuWUO/giphy.gif) 
 
+## Project Overview
+This App allows the user to find top rated movies by the most popular	genres from the TMDB API.
+
+The most challenging part was learning the useEffect hook and how it works. I now understand that when a programmer calls useEffect, you’re telling React to run your “effect” function after flushing changes to the DOM & more. 
+
+The most fun was to actually bring all the frameworks and components together giving me the final result. 
+
 ## Deployed version here [Hulu clone](https://huluclone-4432e.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
