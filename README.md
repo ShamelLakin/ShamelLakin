@@ -8,6 +8,42 @@
 I'm a full-stack software engineer who uses code as a means to make progress in our world.
 I put my heart into detail and project completion.
 
+## Porfolio
+
+# Netflix Clone
+
+This project is a replica of the Netflix App, it allows the user to search top rated movies by genre.
+
+## Demo
+
+![Alt Text](https://media.giphy.com/media/27beCzep4HaiW064Rx/giphy.gif)
+
+## Features
+
+- JavaScript - client-side
+- React
+- TMDB - api requests
+- react-youtube
+- firebase - backend
+- Cross platform
+
+## Project Overview
+
+* App allows the user search top rated movies by genre
+
+* Built API with Axios to handle HTTP requests
+
+* Utilized React library to build UI
+ 
+* Used TMDB database for access to movies
+
+* Implemented Firebase for hosting and deployment
+
+To deploy this project in browser and give it a spin.
+
+## Deployed version here [Netflix-Clone](https://netflix-clone-17f20.firebaseapp.com/)
+
+
 
 ## Hulu Clone Project 
 Below is my Hulu clone project.
@@ -16,17 +52,21 @@ Projects are a great way to level up those skills :rocket:
 ![Alt Text](https://media.giphy.com/media/GqUB4IZ8iKt7vUuWUO/giphy.gif) 
 
 ## Project Overview
-* This App allows the user to find top rated movies by the most popular	genres from the `TMDB API`. To achieve this I implemented `Axios` for asynchronous HTTP requests
+* Replica of the Hulu Application with search functionality
+ 
+* Built with React for responsiveness and state management
+  
+* Used Axios for asynchronous HTTP requests
 
-* The most challenging part was learning the `useEffect` hook and how it works. I now understand that when a programmer calls useEffect, you’re telling `React` to run your “effect” function after flushing changes to the `DOM` & more. 
+* Incorporated react-flip-move for image transitioning
+ 
+* Queried the TMDB database for movie selection
 
-* The most fun was to actually bring all the frameworks and components together giving me the final result. 
-
-## Deployed version here [Hulu clone](https://huluclone-4432e.web.app/)
+## Deployed version here [Hulu-Clone](https://huluclone-4432e.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-## Built with
+## Features
 * JavaScript
 * React
 * TMDB - API
