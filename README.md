@@ -10,7 +10,7 @@ I put my heart into detail and project completion.
 
 ## Porfolio
 
-# Netflix Clone
+# Netflix-Clone Project
 
 This project is a replica of the Netflix App, it allows the user to search top rated movies by genre.
 
@@ -45,7 +45,7 @@ To deploy this project in browser and give it a spin.
 
 
 
-## Hulu Clone Project 
+## Hulu-Clone Project 
 Below is my Hulu clone project.
 Projects are a great way to level up those skills :rocket:
 
