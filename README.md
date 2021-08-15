@@ -8,9 +8,9 @@
 I'm a full-stack software engineer who uses code as a means to make progress in our world.
 I put my heart into detail and project completion.
 
-## Porfolio
+# Porfolio
 
-# Netflix-Clone Project
+## Netflix-Clone Project
 
 This project is a replica of the Netflix App, it allows the user to search top rated movies by genre.
 
