@@ -10,7 +10,7 @@ I put my heart into detail and project completion.
 
 # Porfolio
 
-## Tesla-Clone Project
+## Tesla-Homepage Project
 
 This project is a replica of the Tesla homepage App.
 
